@@ -1,2 +1,3 @@
 # dotnet
-projects of daily lessons
+Bu mening birinchi codim
+
