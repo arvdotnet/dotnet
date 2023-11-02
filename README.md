@@ -1,3 +1,3 @@
-# dotnet Farrux
+# dotnetFarrux
 Bu mening birinchi codim
 
